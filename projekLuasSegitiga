@@ -1,0 +1,5 @@
+run:
+Masukkan nilai alas segitiga: 4
+Masukkan nilai tinggi segitiga: 3
+Luas segitiga dengan alas 4.0 dan tinggi 3.0 adalah 6.0
+BUILD SUCCESSFUL (total time: 24 seconds)
